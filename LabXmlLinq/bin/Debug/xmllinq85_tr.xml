@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <class number="5">
+    <pupil name="Иванов А.С">
+      <subject name="Физика">
+        <mark>3</mark>
+      </subject>
+    </pupil>
+  </class>
+  <class number="9">
+    <pupil name="Иванов А.С">
+      <subject name="Математика">
+        <mark>5</mark>
+      </subject>
+    </pupil>
+  </class>
+  <class number="9">
+    <pupil name="Степанова Г.Б.">
+      <subject name="Математика">
+        <mark>5</mark>
+      </subject>
+      <subject name="Физика">
+        <mark>4</mark>
+      </subject>
+    </pupil>
+  </class>
+</root>

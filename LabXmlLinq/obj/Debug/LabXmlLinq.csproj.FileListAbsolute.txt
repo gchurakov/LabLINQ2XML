@@ -1,0 +1,6 @@
+/Users/admin/RiderProjects/LabXmlLinq/LabXmlLinq/bin/Debug/LabXmlLinq.exe
+/Users/admin/RiderProjects/LabXmlLinq/LabXmlLinq/bin/Debug/LabXmlLinq.pdb
+/Users/admin/RiderProjects/LabXmlLinq/LabXmlLinq/obj/Debug/LabXmlLinq.csproj.AssemblyReference.cache
+/Users/admin/RiderProjects/LabXmlLinq/LabXmlLinq/obj/Debug/LabXmlLinq.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/LabXmlLinq/LabXmlLinq/obj/Debug/LabXmlLinq.exe
+/Users/admin/RiderProjects/LabXmlLinq/LabXmlLinq/obj/Debug/LabXmlLinq.pdb

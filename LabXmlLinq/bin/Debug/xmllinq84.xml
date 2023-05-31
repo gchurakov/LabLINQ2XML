@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <class5 name="Иванов А.С" subject="Математика">
+    <mark>3</mark>
+  </class5>
+  <class9 name="Степанова Г.Б." subject="Физика">
+    <mark>4</mark>
+  </class9>
+</root>

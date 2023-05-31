@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ул.ул.Гагарина>
+    <brand92 station-count="1">92</brand92>
+  </ул.ул.Гагарина>
+  <ул.ул.Ленина>
+    <brand95 station-count="1">95</brand95>
+  </ул.ул.Ленина>
+  <ул.ул.Пушкина>
+    <brand98 station-count="1">98</brand98>
+  </ул.ул.Пушкина>
+  <ул.ул.Чехова>
+    <brand92 station-count="2">92</brand92>
+    <brand100 station-count="1">100</brand100>
+  </ул.ул.Чехова>
+</root>

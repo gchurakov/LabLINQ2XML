@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <mark subject="Уизика">
+    <name class="9">Степанова Г.Б.</name>
+    <value>4</value>
+  </mark>
+  <mark subject="Физика">
+    <name class="9">Иванов А.С</name>
+    <value>4</value>
+  </mark>
+  <mark subject="Математика">
+    <name class="5">Ильчук А.</name>
+    <value>3</value>
+  </mark>
+</root>

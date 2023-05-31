@@ -1,0 +1,11 @@
+<root>
+    <pupil name="Степанова Г.Б." class="9"> 
+        <info mark="4" subject="Уизика" />
+    </pupil>
+    <pupil name="Иванов А.С" class="9">
+        <info mark="4" subject="Математика" />
+    </pupil>
+    <pupil name="Ст A.И." class="5">
+        <info mark="4" subject="Язык" />
+    </pupil>
+</root>

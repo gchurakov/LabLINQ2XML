@@ -1,0 +1,20 @@
+<root>
+    <record>
+        <class>9</class>
+        <name>Степанова Г.Б.</name> 
+        <subject>Уизика</subject>
+        <mark>4</mark>
+    </record>
+    <record>
+        <class>9</class>
+        <name>Иванов А.С</name>
+        <subject>Физика</subject>
+        <mark>4</mark>
+    </record>
+    <record>
+        <class>5</class>
+        <name>Ильчук А.</name>
+        <subject>Математика</subject>
+        <mark>3</mark>
+    </record>
+</root>
